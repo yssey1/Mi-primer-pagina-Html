@@ -1,5 +1,7 @@
 body {
-    background: #def0f5;
+    background:url(../Imagen/Diapositiva1.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-size: 16px;
 }
 h1 {
@@ -10,3 +12,14 @@ h2 {
 }
 a {
     color: orange;}
+div {width: 50%;
+        height: 100px;
+        background:rgba(199, 173, 147,.4);
+        margin:0px 350px;
+        padding:30px;
+        border: :10px solid 0
+    }
+
+.main-header {
+    text-align: center;
+    padding: 3.8em 0;
