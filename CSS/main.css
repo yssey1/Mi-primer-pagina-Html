@@ -9,7 +9,7 @@ body {
 	font: 1em/1.5 'Open Sans', sans-serif;
 	color: #373737;
 	background: #eaeaea;
-	margin: 0;
+	margin: 20px;
 }
 a {
 	text-decoration: none;
@@ -43,7 +43,7 @@ p {
 
 /* ---- Layout Containers ---- */
 .container {
-	width: 94.02985075%;
+	width: 100%;
 	max-width: 1260px;
 	background: rgb(248, 205, 164);
 	margin: auto;
@@ -54,14 +54,14 @@ p {
 }
 .photo-container {
 	text-align: center;
-	margin-bottom: 4em;
+	margin-bottom: 3em;
 }
 
 /* ---- Page Elements ---- */
 .name {
-	font-size: 1.65em;
+	font-size: 2.5em;
 	font-weight: 800;
-	margin: 0 0 1.5em;
+	margin: 0 0 0.5em;
 	line-height: 1;
 }
 .name span {
@@ -130,7 +130,7 @@ p {
 		padding: 0 2.25em 4em;
 	}
 	.photo-container {
-		width: 48%;
+		width: 50%;
 		float: left;
 		margin-left: 4%;
 	}
